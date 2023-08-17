@@ -8,6 +8,7 @@
 - ## Usage
 - ## Available Currencies
 - ## Contributing
+- ## Postman Documentation
 
 ## Introduction
 
@@ -82,3 +83,6 @@ Here is the list of available currencies that you can use in the application:
 ## Contributing
 
 Contributions are welcome! If you find any issues or want to enhance the application, please create a pull request.
+
+## Postman Documentation
+Documentation: [Postman API Documentation](https://documenter.getpostman.com/view/20715731/2s9Y5R26jH)
