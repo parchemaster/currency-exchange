@@ -29,9 +29,9 @@ The Currency Exchange Application is a Java Spring-based project that enables us
 
 To set up and deploy the Currency Exchange Application:
 
-1. Clone the repository: `git clone <repository_url>`
-2. Navigate to the project directory: `cd currency-exchange-app`
-3. Build the Docker image: `docker build -t currency-exchange-app .`
+1. Clone the repository: `git clone https://github.com/parchemaster/currency-exchange`
+2. Navigate to the project directory: `cd currency-exchange2`
+3. Build the Docker image: `docker build -t currency-exchange2 .`
 4. Run the Docker container: `docker run -p 9090:9090 currency-exchange`
 
 ## Usage
