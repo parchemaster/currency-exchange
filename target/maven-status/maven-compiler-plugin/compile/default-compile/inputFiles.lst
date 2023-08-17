@@ -1,0 +1,10 @@
+/Users/Ivan/Documents/currency-exchange2/src/main/java/sk/tatrabanka/currencyexchange2/exception/NotFoundException.java
+/Users/Ivan/Documents/currency-exchange2/src/main/java/sk/tatrabanka/currencyexchange2/repository/CurrencyRepository.java
+/Users/Ivan/Documents/currency-exchange2/src/main/java/sk/tatrabanka/currencyexchange2/service/CurrencyServiceI.java
+/Users/Ivan/Documents/currency-exchange2/src/main/java/sk/tatrabanka/currencyexchange2/controller/CurrencyExchangeController.java
+/Users/Ivan/Documents/currency-exchange2/src/main/java/sk/tatrabanka/currencyexchange2/service/CurrencyService.java
+/Users/Ivan/Documents/currency-exchange2/src/main/java/sk/tatrabanka/currencyexchange2/data/ExchangeRequest.java
+/Users/Ivan/Documents/currency-exchange2/src/main/java/sk/tatrabanka/currencyexchange2/data/Currency.java
+/Users/Ivan/Documents/currency-exchange2/src/main/java/sk/tatrabanka/currencyexchange2/data/ExchangeResponse.java
+/Users/Ivan/Documents/currency-exchange2/src/main/java/sk/tatrabanka/currencyexchange2/data/CurrencyData.java
+/Users/Ivan/Documents/currency-exchange2/src/main/java/sk/tatrabanka/currencyexchange2/CurrencyExchange2Application.java
